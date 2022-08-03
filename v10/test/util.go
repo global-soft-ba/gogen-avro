@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/actgardner/gogen-avro/v10/container"
+	"github.com/global-soft-ba/gogen-avro/v10/container"
 
 	"github.com/linkedin/goavro/v2"
 	"github.com/stretchr/testify/assert"

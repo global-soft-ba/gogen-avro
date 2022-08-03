@@ -3,7 +3,7 @@ package canonical
 import (
 	"fmt"
 
-	"github.com/actgardner/gogen-avro/v10/schema"
+	"github.com/global-soft-ba/gogen-avro/v10/schema"
 )
 
 type CanonicalFields struct {

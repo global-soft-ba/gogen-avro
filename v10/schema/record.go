@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/actgardner/gogen-avro/v10/generator"
+	"github.com/global-soft-ba/gogen-avro/v10/generator"
 )
 
 type RecordDefinition struct {

@@ -1,7 +1,7 @@
 package generic
 
 import (
-	"github.com/actgardner/gogen-avro/v10/vm/types"
+	"github.com/global-soft-ba/gogen-avro/v10/vm/types"
 )
 
 type primitiveDatum struct {
