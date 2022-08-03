@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	avro "github.com/actgardner/gogen-avro/v10/schema"
+	avro "github.com/global-soft-ba/gogen-avro/v10/schema"
 )
 
 // Namespace is a mapping of avro.QualifiedNames to their Definitions, used to resolve

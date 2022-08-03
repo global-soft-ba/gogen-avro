@@ -3,7 +3,7 @@ package schema
 import (
 	"fmt"
 
-	"github.com/actgardner/gogen-avro/v10/util"
+	"github.com/global-soft-ba/gogen-avro/v10/util"
 )
 
 type BytesField struct {

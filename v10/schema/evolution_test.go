@@ -3,8 +3,8 @@ package schema_test
 import (
 	"testing"
 
-	"github.com/actgardner/gogen-avro/v10/parser"
-	"github.com/actgardner/gogen-avro/v10/resolver"
+	"github.com/global-soft-ba/gogen-avro/v10/parser"
+	"github.com/global-soft-ba/gogen-avro/v10/resolver"
 
 	"github.com/stretchr/testify/assert"
 )

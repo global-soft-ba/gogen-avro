@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	evolution "github.com/actgardner/gogen-avro/v10/test/evolve-union/evolution"
+	evolution "github.com/global-soft-ba/gogen-avro/v10/test/evolve-union/evolution"
 
 	"github.com/stretchr/testify/assert"
 )
