@@ -1,8 +1,9 @@
-module github.com/actgardner/gogen-avro/v10
+module github.com/global-soft-ba/gogen-avro/v10
 
 go 1.17
 
 require (
+	github.com/actgardner/gogen-avro/v10 v10.2.1
 	github.com/golang/snappy v0.0.4
 	github.com/linkedin/goavro/v2 v2.11.1
 	github.com/stretchr/testify v1.7.1

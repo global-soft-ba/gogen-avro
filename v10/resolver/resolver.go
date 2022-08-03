@@ -3,7 +3,7 @@ package resolver
 import (
 	"fmt"
 
-	avro "github.com/actgardner/gogen-avro/v10/schema"
+	avro "github.com/global-soft-ba/gogen-avro/v10/schema"
 )
 
 // ResolveDefinition resolves the References in a Definition one level deep

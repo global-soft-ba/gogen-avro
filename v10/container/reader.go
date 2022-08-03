@@ -8,8 +8,8 @@ import (
 
 	"github.com/golang/snappy"
 
-	"github.com/actgardner/gogen-avro/v10/container/avro"
-	"github.com/actgardner/gogen-avro/v10/schema"
+	"github.com/global-soft-ba/gogen-avro/v10/container/avro"
+	"github.com/global-soft-ba/gogen-avro/v10/schema"
 )
 
 // Reader is a low-level primitive for reading the OCF framing of a file.
