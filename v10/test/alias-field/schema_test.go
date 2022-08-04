@@ -4,9 +4,9 @@ import (
 	"io"
 	"testing"
 
-	"github.com/actgardner/gogen-avro/v10/container"
-	"github.com/actgardner/gogen-avro/v10/test"
-	evolution "github.com/actgardner/gogen-avro/v10/test/alias-field/evolution"
+	"github.com/global-soft-ba/gogen-avro/v10/container"
+	"github.com/global-soft-ba/gogen-avro/v10/test"
+	evolution "github.com/global-soft-ba/gogen-avro/v10/test/alias-field/evolution"
 )
 
 func TestEvolution(t *testing.T) {

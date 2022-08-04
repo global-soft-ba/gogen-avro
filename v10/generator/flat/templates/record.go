@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/actgardner/gogen-avro/v10/vm/types"
-	"github.com/actgardner/gogen-avro/v10/vm"
-	"github.com/actgardner/gogen-avro/v10/compiler"
+	"github.com/global-soft-ba/gogen-avro/v10/vm/types"
+	"github.com/global-soft-ba/gogen-avro/v10/vm"
+	"github.com/global-soft-ba/gogen-avro/v10/compiler"
 )
 
 var _ = fmt.Printf

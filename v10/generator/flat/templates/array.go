@@ -4,8 +4,8 @@ const ArrayTemplate = `
 import (
 	"io"
 
-	"github.com/actgardner/gogen-avro/v10/vm/types"
-	"github.com/actgardner/gogen-avro/v10/vm"
+	"github.com/global-soft-ba/gogen-avro/v10/vm/types"
+	"github.com/global-soft-ba/gogen-avro/v10/vm"
 )
 
 func {{ .SerializerMethod }}(r {{ .GoType }}, w io.Writer) error {

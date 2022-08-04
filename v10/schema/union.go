@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/actgardner/gogen-avro/v10/generator"
+	"github.com/global-soft-ba/gogen-avro/v10/generator"
 )
 
 type UnionField struct {
